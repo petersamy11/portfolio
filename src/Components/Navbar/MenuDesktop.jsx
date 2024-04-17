@@ -9,7 +9,7 @@ export default function MenuDesktop() {
         <li className='ms-4'><a className='text-decoration-none' href='#skills'>Skills</a></li>
         <li className='ms-4'><a className='text-decoration-none' href='#projects'>Projects</a></li>
         <li className='ms-4'><a className='text-decoration-none' href='#contact'>Contact</a></li>
-        <li className='ms-4'><Button text={'Resume'} link={'https://drive.google.com/file/d/1K9N3xaenbTJfgbs15g6vEblB5WctnSXE/view'}/></li>
+        <li className='ms-4'><Button text={'Resume'} link={'https://drive.google.com/file/d/1fzmMgnjUFFo2RCP-gebMXo9ndXerNU8e/view'}/></li>
     </ul>
 </nav>
   )
