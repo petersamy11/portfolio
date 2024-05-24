@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4e2e7454.css",
-    "main.js": "/portfolio/static/js/main.7e2d5eca.js",
+    "main.js": "/portfolio/static/js/main.ad0fb55b.js",
     "static/media/soragio.png": "/portfolio/static/media/soragio.5ce7db1e561602930f3f.png",
     "static/media/pizza.jpg": "/portfolio/static/media/pizza.2d18e1ac5254ff72ba31.jpg",
     "static/media/burger.jpg": "/portfolio/static/media/burger.0de1d10038fab3179f06.jpg",
@@ -31,10 +31,10 @@
     "static/media/css3.svg": "/portfolio/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/html5.svg": "/portfolio/static/media/html5.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.4e2e7454.css.map": "/portfolio/static/css/main.4e2e7454.css.map",
-    "main.7e2d5eca.js.map": "/portfolio/static/js/main.7e2d5eca.js.map"
+    "main.ad0fb55b.js.map": "/portfolio/static/js/main.ad0fb55b.js.map"
   },
   "entrypoints": [
     "static/css/main.4e2e7454.css",
-    "static/js/main.7e2d5eca.js"
+    "static/js/main.ad0fb55b.js"
   ]
 }
